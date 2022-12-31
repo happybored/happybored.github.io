@@ -53,7 +53,7 @@ My research interest includes quantum computing, machine learning and computer v
   * Participated in the development of sensor management framework 
   * Developed a long-term visual localization system
 
-- *2020.5 - 2021.6*: Guangdong Provincial People's Hospital;
+- *2021.6 - 2022.5*: Guangdong Provincial People's Hospital;
   
   intern as an AI model engineer: design and train AI model for medical image.
   * Designed an AI model to diagnose pulmonary hypertension
