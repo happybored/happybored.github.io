@@ -58,6 +58,10 @@ My research interest includes quantum computing, machine learning and computer v
   intern as an AI model engineer: design and train AI model for medical image.
   * Designed an AI model to diagnose pulmonary hypertension
 
+#  Contact Me
+
+- Email: zhu2@gmu.edu
+- Office: 3231, Nguyen Engineering Building, 4511 Patriot Circle, Fairfax, Virginia, 22030
   
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
