@@ -39,16 +39,20 @@ My research interest includes quantum computing and computer vision. I have publ
   
 # 📝 Selected Publications 
 
-- [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578); [Conference Slides](https://happybored.github.io/)
+- [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578) (ICCAD 2022); [Conference Slides](https://happybored.github.io/)
   
 **Zhirui Hu**, Peiyan Dong, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
-  
+
+Accepted by IEEE/ACM International Conference On Computer-Aided Design (ICCAD), 2022.
+
 
   
-- [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396); [Conference Slides](https://happybored.github.io/)
+- [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396) (ICCD 2022); [Conference Slides](https://happybored.github.io/)
   
 **Zhirui Hu**, Jinyang Li, Zhenyu Pan, Shanglin Zhou, Lei Yang, Caiwen Ding, Omer Khan, Tong Geng, Weiwen Jiang
 
+Accepted by IEEE International Conference on Computer Design (ICCD), Oct. 2022, (Invited paper).
+  
 # 🔨 Main Projects 
 - [QuantumFlow Tutorial](https://github.com/JQub/QuantumFlow_Tutorial)
 - [Quantum Seismic Detection](https://github.com/JQub/quantum_seismic_detection)
