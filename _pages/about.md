@@ -19,9 +19,6 @@ redirect_from:
 
 I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) of Department of Electrical and Computer Engineering at [Geroge Mason University](https://www.gmu.edu). Prior to this, I received my Bachelor’s degree in Autumation from Huazhong University of Science and Technology.
 
-My current research interests  
-In xxx, I am now working on xxx; in xxx, I am now working xxx. At the same time, I am actively studying xxx.
-
 My research interest includes quantum computing, machine learning and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
@@ -49,18 +46,16 @@ My research interest includes quantum computing, machine learning and computer v
 - *2016.09 - 2020.06*; Huazhong University of Science and Technology;Bachelor of engineering; School of Artificial Intelligence and Automation.
 
   
- # 💻 Internships and Working Experience
-- *2020.5 - 2021.6*; Beijing Waytous Technology Co., Ltd; full-time work as a Software Engineer; develop and maintain the software framework of auto-driving.
-  
+# 💻 Internships and Working Experience
+- *2020.5 - 2021.6*: Beijing Waytous Technology Co., Ltd; 
+  full-time work as a Software Engineer: develop and maintain the software framework of auto-driving.
   * Participated in the development of sensor management framework 
-  
   * Developed a long-term visual localization system
 
-- *2020.5 - 2021.6*; Guangdong Provincial People's Hospital; intern as an AI model engineer; design and train AI model for medical image.
-  
+- *2020.5 - 2021.6*: Guangdong Provincial People's Hospital;
+  intern as an AI model engineer: design and train AI model for medical image.
   * Designed an AI model to diagnose pulmonary hypertension
-  
-  
+
   
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
