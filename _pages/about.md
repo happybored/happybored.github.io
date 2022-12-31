@@ -28,12 +28,16 @@ My research interest includes quantum computing, machine learning and computer v
   
 # 📝 Publications 
 
-  
 - [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578)
+  
 **Zhirui Hu**, Peiyan Dong, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
+  
 [Conference Slides](https://happybored.github.io/)
   
 - [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396)
+  
+**Zhirui Hu**, Jinyang Li, Zhenyu Pan, Shanglin Zhou, Lei Yang, Caiwen Ding, Omer Khan, Tong Geng, Weiwen Jiang
+  
 [Conference Slides](https://happybored.github.io/)
   
 
@@ -44,11 +48,13 @@ My research interest includes quantum computing, machine learning and computer v
   
 # 💻 Internships and Working Experience
 - *2020.5 - 2021.6*: Beijing Waytous Technology Co., Ltd; 
+  
   full-time work as a Software Engineer: develop and maintain the software framework of auto-driving.
   * Participated in the development of sensor management framework 
   * Developed a long-term visual localization system
 
 - *2020.5 - 2021.6*: Guangdong Provincial People's Hospital;
+  
   intern as an AI model engineer: design and train AI model for medical image.
   * Designed an AI model to diagnose pulmonary hypertension
 
