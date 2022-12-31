@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) of Department of Electrical and Computer Engineering at [Geroge Mason University](https://www.gmu.edu). Prior to this, I received my Bachelor’s degree in Autumation from Huazhong University of Science and Technology.
+I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) of Department of Electrical and Computer Engineering at [Geroge Mason University](https://www.gmu.edu). My acadmic advisor is [Weiwen Jiang](https://jqub.ece.gmu.edu/categories/bio/). Prior to this, I received my Bachelor’s degree in Autumation from Huazhong University of Science and Technology.
 
 My research interest includes quantum computing and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
