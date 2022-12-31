@@ -19,14 +19,25 @@ redirect_from:
 
 I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) of Department of Electrical and Computer Engineering at [Geroge Mason University](https://www.gmu.edu). Prior to this, I received my Bachelor’s degree in Autumation from Huazhong University of Science and Technology.
 
-My research interest includes quantum computing, machine learning and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes quantum computing and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+# 🔖 Research Interest
+  - Quantum Computing (Ph.d.'s interest)
+  * Quantum Learning
+  * Quantum Circuit Optimization
+  * Quantum Noise Suppression: quantum error adaption, quantum error mitigation, quantum optimal control.
+
+  
+  - Computer Vision (Working Experience)
+  * Simultaneous Localization and Mapping (SLAM)
 
 
+  
 # 🔥 News
 - *2022.08*: &nbsp; I joined George Mason University (GMU) to pursue a Ph.D. degree under guidance of Dr. [Weiwen Jiang](https://jqub.ece.gmu.edu/categories/bio/).
 - *2020.06*: &nbsp; I graduated and obtained my bachelor’s degree from Huazhong University of Science and Technology.
   
-# 📝 Publications 
+# 📝 Selected Publications 
 
 - [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578); [Conference Slides](https://happybored.github.io/)
   
@@ -37,14 +48,20 @@ My research interest includes quantum computing, machine learning and computer v
 - [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396); [Conference Slides](https://happybored.github.io/)
   
 **Zhirui Hu**, Jinyang Li, Zhenyu Pan, Shanglin Zhou, Lei Yang, Caiwen Ding, Omer Khan, Tong Geng, Weiwen Jiang
-  
 
+# 🔨 Main Projects 
+- [QuantumFlow Tutorial](https://github.com/JQub/QuantumFlow_Tutorial)
+- [quantum seismic detection](https://github.com/JQub/quantum_seismic_detection)
   
 
 # 📖 Educations
 - *2022.08 - now*; George Mason University; Department of Electrical and Computer Engineering
 - *2016.09 - 2020.06*; Huazhong University of Science and Technology;Bachelor of engineering; School of Artificial Intelligence and Automation.
 
+  
+# 📖 Teaching
+- *ECE 321* Continuous-time Signals and Systems, Teaching Assistant, GMU, 2022 Fall
+- *ECE 554* Machine Learning for Embedded Systems, Teaching Assistant, GMU, 2022 Fall
   
 # 💻 Internships and Working Experience
 - *2020.5 - 2021.6*: Beijing Waytous Technology Co., Ltd; 
@@ -57,16 +74,18 @@ My research interest includes quantum computing, machine learning and computer v
   
   intern as an AI model engineer: design and train AI model for medical image.
   * Designed an AI model to diagnose pulmonary hypertension
-
+  
+  
+# 🎖 Honors and Awards
+- *2017* RoboCup, the National Third Prize
+- *2018* University Outstanding Student Leader
+- *2019* Siemens Cup, the National First Prize
+  
+  
 #  Contact Me
-
 - Email: zhu2@gmu.edu
 - Office: 3231, Nguyen Engineering Building, 4511 Patriot Circle, Fairfax, Virginia, 22030
-  
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-  
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
