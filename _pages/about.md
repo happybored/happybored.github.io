@@ -22,13 +22,13 @@ I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) 
 My research interest includes quantum computing and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔖 Research Interest
-  - Quantum Computing (Ph.d.'s interest)
+- Quantum Computing (Ph.d.'s interest)
   * Quantum Learning
   * Quantum Circuit Optimization
   * Quantum Noise Suppression: quantum error adaption, quantum error mitigation, quantum optimal control.
 
   
-  - Computer Vision (Working Experience)
+- Computer Vision (Working Experience)
   * Simultaneous Localization and Mapping (SLAM)
 
 
@@ -59,7 +59,7 @@ My research interest includes quantum computing and computer vision. I have publ
 - *2016.09 - 2020.06*; Huazhong University of Science and Technology;Bachelor of engineering; School of Artificial Intelligence and Automation.
 
   
-# 📖 Teaching
+# 👩 Teaching
 - *ECE 321* Continuous-time Signals and Systems, Teaching Assistant, GMU, 2022 Fall
 - *ECE 554* Machine Learning for Embedded Systems, Teaching Assistant, GMU, 2022 Fall
   
