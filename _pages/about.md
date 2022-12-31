@@ -29,15 +29,11 @@ My research interest includes quantum computing, machine learning and computer v
 # 📝 Publications 
 
   
-[Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578)
-  
+- [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578)
 **Zhirui Hu**, Peiyan Dong, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
-
 [Conference Slides](https://happybored.github.io/)
   
-
-[On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396)
-  
+- [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396)
 [Conference Slides](https://happybored.github.io/)
   
 
