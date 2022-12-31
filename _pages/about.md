@@ -51,7 +51,7 @@ My research interest includes quantum computing and computer vision. I have publ
 
 # 🔨 Main Projects 
 - [QuantumFlow Tutorial](https://github.com/JQub/QuantumFlow_Tutorial)
-- [quantum seismic detection](https://github.com/JQub/quantum_seismic_detection)
+- [Quantum Seismic Detection](https://github.com/JQub/quantum_seismic_detection)
   
 
 # 📖 Educations
