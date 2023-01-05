@@ -39,7 +39,7 @@ My research interest includes quantum computing and computer vision. I have publ
   
 # 📝 Selected Publications 
 
-- [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578) (ICCAD 2022); [Conference Slides](https://happybored.github.io/)
+- [Quantum Neural Network Compression](https://arxiv.org/abs/2207.01578) (ICCAD 2022); [Conference Slides](https://docs.google.com/presentation/d/1GPK434OXi9kxTPrBz57zV56jEOBATB0L/edit?usp=sharing&ouid=103310366326555615456&rtpof=true&sd=true)
   
 **Zhirui Hu**, Peiyan Dong, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
 
@@ -47,7 +47,7 @@ Accepted by IEEE/ACM International Conference On Computer-Aided Design (ICCAD), 
 
 
   
-- [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396) (ICCD 2022); [Conference Slides](https://happybored.github.io/)
+- [On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9978396) (ICCD 2022); [Conference Slides](https://happybored.github.io/](https://docs.google.com/presentation/d/1CuXY4gcyeykOQ5XIWBuQN9bwGHH6i_It/edit?usp=sharing&ouid=103310366326555615456&rtpof=true&sd=true)
   
 **Zhirui Hu**, Jinyang Li, Zhenyu Pan, Shanglin Zhou, Lei Yang, Caiwen Ding, Omer Khan, Tong Geng, Weiwen Jiang
 
