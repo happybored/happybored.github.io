@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+404
+
+<!--
 I am now a first-year doctoral student in [JQub Lab](https://jqub.ece.gmu.edu/) of Department of Electrical and Computer Engineering at [Geroge Mason University](https://www.gmu.edu). My acadmic advisor is [Weiwen Jiang](https://jqub.ece.gmu.edu/categories/bio/). Prior to this, I received my Bachelor’s degree in Autumation from Huazhong University of Science and Technology.
 
 My research interest includes quantum computing and computer vision. I have published papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=N6JrW54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -94,3 +97,4 @@ Accepted by IEEE International Conference on Computer Design (ICCD), Oct. 2022, 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+-->
