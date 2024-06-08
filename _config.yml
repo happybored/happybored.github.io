@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhirui Hu"
-description              : "Doctoral student in George Mason University, in Electrical and Computer Engineering. "
+description              : "Doctoral student in George Mason University, in Computer Science. "
 repository               : "happybored/happybored.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=N6JrW54AAAAJ"
   email            : "zhu2@gmu.edu"
-  advisor          : "https://jqub.ece.gmu.edu/categories/bio/"
+  advisor          : "https://cs.gmu.edu/directory/detail/153/"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
